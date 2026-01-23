@@ -69,11 +69,3 @@ potential retention strategies.
   architectures.
 - Clear separation between data storage, transformation, and modeling improves
   reproducibility and transparency.
-
----
-
-## Tools
-- Python (pandas, scikit-learn)
-- SQLite
-- SQL
-- Jupyter Notebook
